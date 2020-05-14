@@ -1,6 +1,7 @@
 cython
 cffi
 opencv-python
+imageio
 scipy>=1.4
 msgpack
 easydict
