@@ -6,6 +6,5 @@ msgpack
 easydict
 matplotlib
 pycocotools
-pytorch>=1.5
 pyyaml
 tensorboardX
