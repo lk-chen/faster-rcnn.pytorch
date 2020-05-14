@@ -6,4 +6,5 @@ msgpack
 easydict
 matplotlib
 pyyaml
+pycocotools
 tensorboardX
